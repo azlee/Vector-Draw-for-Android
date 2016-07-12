@@ -5,7 +5,6 @@ JSketch is a vector drawing application for Android. It was implemented for the 
 Enhancement added is the ability to increase a shape size by pressing the zoom button, then pinch out on a shape to increase it's size or pinch in to decrease it’s size. 
 
 ##Preview
-![alt tag](https://github.com/azlee/Vector-Draw-for-Android/blob/master/preview.png)
-
+<img src="https://github.com/azlee/Vector-Draw-for-Android/blob/master/preview.png" width="200">
 
 
