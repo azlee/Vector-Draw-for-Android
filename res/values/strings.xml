@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JSketch</string>
+    <string name="action_settings">Settings</string>
+    <string name="erase">Erase</string>
+    <string name="select">Select</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="circle">Circle</string>
+    <string name="line">Line</string>
+    <string name="zoom">Zoom</string>
+    <string name="paint">Paint</string>
+    <string name="button_text">\?</string>
+    <string name="red">Red</string>
+    <string name="orange">Orange</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="purple">Purple</string>
+    <string name="colors">Colors</string>
+    <string name="stroke1">Stroke1</string>
+    <string name="stroke2">Stroke2</string>
+    <string name="stroke3">Stroke3</string>
+    <string name="stroke4">Stroke4</string>
+</resources>

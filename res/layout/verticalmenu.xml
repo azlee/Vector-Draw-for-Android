@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="50dp"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/select_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="28dp"
+        android:contentDescription="@string/select"
+        android:background="#f7f6f5"
+        android:src="@drawable/select" />
+    <ImageButton
+        android:id="@+id/erase_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="28dp"
+        android:contentDescription="@string/erase"
+        android:background="#ffffff"
+        android:src="@drawable/eraser" />
+    <ImageButton
+        android:id="@+id/rectangle_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="28dp"
+        android:contentDescription="@string/rectangle"
+        android:background="#ffffff"
+        android:src="@drawable/rectangle" />
+    <ImageButton
+        android:id="@+id/circle_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="28dp"
+        android:contentDescription="@string/circle"
+        android:background="#ffffff"
+        android:src="@drawable/circle" />
+    <ImageButton
+        android:id="@+id/line_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="28dp"
+        android:contentDescription="@string/line"
+        android:background="#ffffff"
+        android:src="@drawable/line" />
+    <ImageButton
+        android:id="@+id/zoom_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="28dp"
+        android:contentDescription="@string/zoom"
+        android:background="#ffffff"
+        android:src="@drawable/zoom" />
+    <ImageButton
+        android:id="@+id/paint_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="28dp"
+        android:contentDescription="@string/paint"
+        android:background="#ffffff"
+        android:src="@drawable/paint" />
+    <ImageButton
+        android:id="@+id/red_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/red"
+        android:background="#ffffff"
+        android:src="@drawable/red" />
+    <ImageButton
+        android:id="@+id/orange_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/orange"
+        android:background="#ffffff"
+        android:src="@drawable/orange"/>
+    <ImageButton
+        android:id="@+id/yellow_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/yellow"
+        android:background="#ffffff"
+        android:src="@drawable/yellow"/>
+    <ImageButton
+        android:id="@+id/green_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/green"
+        android:background="#ffffff"
+        android:src="@drawable/green"/>
+    <ImageButton
+        android:id="@+id/blue_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/blue"
+        android:background="#ffffff"
+        android:src="@drawable/blue" />
+    <ImageButton
+        android:id="@+id/purple_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/purple"
+        android:background="#ffffff"
+        android:src="@drawable/purple" />
+    <ImageButton
+        android:id="@+id/stroke1_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/stroke1"
+        android:background="#ffffff"
+        android:src="@drawable/stroke1v" />
+    <ImageButton
+        android:id="@+id/stroke2_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/stroke2"
+        android:background="#ffffff"
+        android:src="@drawable/stroke2v" />
+    <ImageButton
+        android:id="@+id/stroke3_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/stroke3"
+        android:background="#ffffff"
+        android:src="@drawable/stroke3v" />
+    <ImageButton
+        android:id="@+id/stroke4_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="15dp"
+        android:contentDescription="@string/stroke4"
+        android:background="#ffffff"
+        android:src="@drawable/stroke4v" />
+
+</LinearLayout>
